@@ -1,0 +1,100 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+}
+body {
+    min-height:100vh;
+}
+.bg-yokan {
+    background-color: #383c3c;
+}
+footer {
+    
+    padding: 20px 0;
+}
+footer a {
+    color: white;
+}
+
+.home-container {
+    padding: 20px 0;
+}
+
+.post-list-heading {
+    border-bottom: solid 1px #203744;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+.post-list {
+    padding: 15px;
+    font-size: 16px;
+}
+
+
+.post-list li {
+    display: flex;
+    justify-content: flex-start;
+}
+.post-list li a {
+    color: #383c3c;
+}
+
+.post-list-title {
+    margin-right: 40px;
+}
+.post-meta {
+    color: #AAA;
+}
+
+.post-container {
+    padding: 20px;
+    font-weight: 400;
+}
+
+.post-container h1, .post-container h2, .post-container h3, .post-container  h4,.post-container  h5, .post-container h6 {
+    font-weight: 500;
+}
+
+.post-title {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.post-content h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #44617b;
+    border-bottom: 1px solid #44617b;
+    padding: 5px 0;
+    margin: 10px 0;
+}
+.post-content h2 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #44617b; /*こんねず*/
+    padding: 5px 0;
+    margin: 10px 0;
+}
+
+.post-content h3 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #44617b;
+    padding: 5px 0;
+    margin: 10px 0;
+}
+
+
+.section-nav {
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 10px 30px;
+    border: 1px solid #dcdddd;
+    border-radius: 3px;
+  }
+  
+  .section-nav a{
+    color: #44617b;
+  }
