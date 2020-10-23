@@ -5,6 +5,7 @@
 }
 body {
     min-height:100vh;
+    
 }
 .bg-yokan {
     background-color: #383c3c;
@@ -17,8 +18,17 @@ footer a {
     color: white;
 }
 
+.main-container {
+    background-color: #f3f3f3;
+    align-items: stretch;
+    display: flex;
+}
+
+
 .home-container {
     padding: 20px 0;
+    background: white;
+    min-height: 100%;
 }
 
 .post-list-heading {
@@ -51,6 +61,7 @@ footer a {
 .post-container {
     padding: 20px;
     font-weight: 400;
+    background-color: white;
 }
 
 .post-container h1, .post-container h2, .post-container h3, .post-container  h4,.post-container  h5, .post-container h6 {
