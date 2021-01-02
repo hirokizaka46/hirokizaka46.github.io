@@ -8,7 +8,7 @@ toc: true
 
 あけましておめでとう。げんです。
 
-年末年始、鈴木光さんの「夢を叶えるための勉強法」を読みました。
+年末年始、鈴木光さんの[「夢を叶えるための勉強法」](https://hb.afl.rakuten.co.jp/ichiba/19bcaeb8.ea11d9d7.19bcaeb9.6cc131f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16512061%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjEyOHgxMjgiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9)を読みました。
 
 私クイズ番組のファンですので、頭いい東大王の方を羨ましく、本を思い切り買って、その勉強法を拝読しまして、大変勉強になりました。
 
@@ -145,3 +145,7 @@ toc: true
     - 監視されると感じる
 - 勉強の場所を変って見る
     - いつも行くのカフェ候補が四つ持っている（ドトールなど）
+
+# 参考資料
+
+[「夢を叶えるための勉強法」](https://hb.afl.rakuten.co.jp/ichiba/19bcaeb8.ea11d9d7.19bcaeb9.6cc131f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16512061%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjEyOHgxMjgiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9)
